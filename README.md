@@ -216,5 +216,3 @@ Electrical energy measurement can involve hazardous mains voltages. Use appropri
 This project demonstrates the integration of embedded energy measurement, wireless telemetry, data processing, and dashboard-based monitoring.
 
 ---
-
-⭐ If you find this project useful, consider starring the repository.
